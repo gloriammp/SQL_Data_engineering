@@ -16,7 +16,7 @@ El mismo comprende el proceso entre la configuración de VisualCode y MotherDuck
 En en primer proyecto se realizaron tres análisis  en un *data warehouse* hecho con el esquema de estrella. La estructura del mismo es:
 
 
-![Fuente: Luke Barousse](https://github.com/lukebarousse/SQL_Data_Engineering_Course/raw/main/Resources/images/1_2_Data_Warehouse.png)
+![Fuente: Luke Barousse]https://github.com/lukebarousse/SQL_Data_Engineering_Course(/raw/main/Resources/images/1_2_Data_Warehouse.png)
 
 Las consultas realizadas fueron las siguientes:
 
